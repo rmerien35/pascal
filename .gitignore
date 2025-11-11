@@ -1,15 +1,6 @@
-Thumbs.db
-
-# Fichiers de sauvegarde
-*.bak
-*.backup
-
-# Fichiers temporaires
-*.tmp
-*.temp
-
-# Fichiers logs
-*.log
-
-# Dossier target Maven (contient les .class)
+.settings/
+.project
+.classpath
 target/
+bin/
+*.class
