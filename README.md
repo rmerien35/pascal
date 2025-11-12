@@ -1,3 +1,5 @@
+# pascal
+
 Copyright (c) 2025 Ronan MERIEN
 
 This is a Pascal compiler in Java for studies purposes.
